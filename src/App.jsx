@@ -9,7 +9,7 @@ export default function App() {
  return (
 <>
 <div className="bg-gray-100">
-<Navbar></Navbar>
+<Navbar>sdfsdf</Navbar>
 <Section1></Section1>
 <Section2></Section2>
 
